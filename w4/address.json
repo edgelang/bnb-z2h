@@ -1,0 +1,17 @@
+{
+	"localhost": {
+		"ProxyAdmin": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+		"MyContract": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+		"StorageStructure": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+	},
+	"hardhat": {
+		"ProxyAdmin": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+		"MyContract": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+		"StorageStructure": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+	},
+	"bsctest": {
+		"ProxyAdmin": "0xC2b3EB75267b8F4d452d7E1889523c91FfeEB0A6",
+		"MyContract": "0x84D410A18C50264906Fe52598Ce72A0844C2685f",
+		"StorageStructure": "0xE607C4507F28CcA6a391dbE460974f06251478eE"
+	}
+}
